@@ -1,0 +1,7 @@
+[WIP] Dungeon Escape
+Dungeonescape
+一张还在继续完善的地图，在通往自由的道路上会充满机器人的阻挡！地图又两个版本，以格式单人游戏，一个是至多8人的游戏。（在控制台输入open dungeonescape）目前，工作完成后AI上会有DM。LordCommanderGuts0.4
+30/07/2019
+112 MB
+Solo/coop map
+https://cdn.discordapp.com/attachments/604666569242443786/605015083369758722/unknown.png

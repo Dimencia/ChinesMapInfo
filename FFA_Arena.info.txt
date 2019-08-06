@@ -1,0 +1,7 @@
+FFA Arena
+FFA_Arena一张设置在竞技场的小型单挑地图。目前只有死斗，弹我们计划加入骑士比武，团战和前哨战。 音乐作者是Andrey Vinogradov。Teabag
+Version 1.2
+28/07/2019
+55mb
+16
+https://i.imgur.com/OZ3zVey.jpg
