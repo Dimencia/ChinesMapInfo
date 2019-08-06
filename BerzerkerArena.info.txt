@@ -1,7 +1,6 @@
 BerzerkerArena
 BerzerkerArena
-一个决斗场。这是第一张社区地图，它的创作证实了SDK(开发者工具)的方法理念。
-宣传片 : https://www.youtube.com/watch?v=Noa5xgqMrbw
+一个决斗场。这是第一张社区地图，它的创作证实了SDK(开发者工具)的方法理念。宣传片 : https://www.youtube.com/watch?v=Noa5xgqMrbw
 PlouPlou
 1.0
 19/07/2019
